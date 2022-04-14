@@ -22,6 +22,7 @@ var appShellFiles = [
     '/Bakery-new/img/new/product.png',
     '/Bakery-new/img/new/productnew.png',
     '/Bakery-new/img/new/Rectangle.png',
+    '/Bakery-new/sw.js',
 
 
     
